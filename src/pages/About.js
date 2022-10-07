@@ -11,6 +11,7 @@ function About() {
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
         <p>
+          
         
         </p>
       </div>
