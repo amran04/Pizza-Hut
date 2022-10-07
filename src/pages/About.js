@@ -10,6 +10,10 @@ function About() {
       ></div>
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
+        From easy odering to special offers, this app has every thing you need to get authentic quality pizza at your fingertips.
+        with the pizza-hut appp you can 
+            .Oder with ease 
+            .Find the latest deals and offers near your.        
         <p>
           
         
