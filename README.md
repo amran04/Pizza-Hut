@@ -49,7 +49,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 facebook/create-react-app
 Set up a modern web app by running one command.
 Website
-https://create-react-app.dev
+https://pizza-hut-app.netlify.app/
 Stars
 97277
 Added by GitHub
